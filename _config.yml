@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hamid Khodabandehloo"
-  avatar           : "profile_hamid.png"
+  avatar           : "https://github.com/hamidkhbl/hamidkhbl.github.io/blob/master/images/profile_photo.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Saskatoon, Canada"
   employer         :
